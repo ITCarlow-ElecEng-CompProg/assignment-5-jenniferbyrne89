@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506521688 source:d:\computer programming\lab exercises\5. method of least squares of linear progression\leastsquareslinearprogression\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
